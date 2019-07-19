@@ -33,7 +33,7 @@ plugins:
 header_pages:
   - "pages/publications.html"
   - "pages/ian_humphreys_cv.pdf"
-  - "pages/contact/.html"
+  - "pages/contact.html"
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
