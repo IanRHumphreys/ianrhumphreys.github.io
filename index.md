@@ -3,4 +3,4 @@ layout: page
 title: Ian Humphreys
 ---
 
-<img src="/images/ian_pipette.jpg" />
+<img src="/images/ian_pipette.png" />
