@@ -3,8 +3,8 @@ layout: page
 title: Ian Humphreys
 ---
 <div class="container">
-  <img class="img-fluid" src="/images/ian_microscope3.jpg">
+  <img class="img-fluid" src="/images/ian_microscope3.jpg" alt="image">
   <p>
-    Text, text, text, text, 12
+    Text, text, text, text, 123
   </p>
 </div>
