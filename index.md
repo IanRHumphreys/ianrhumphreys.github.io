@@ -2,10 +2,7 @@
 layout: page
 title: Ian Humphreys
 ---
----
-layout: page
-title: Ian Humphreys
----
+
 <div class="container" style="max-width: 1000px">
   <img class="img-fluid" src="/images/ian_microscope3.jpg" alt="image">
   <p>
