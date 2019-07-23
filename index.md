@@ -2,4 +2,13 @@
 layout: page
 title: Ian Humphreys
 ---
-<img class="img-fluid" src="/images/ian_microscope3.jpg" alt="image">
+---
+layout: page
+title: Ian Humphreys
+---
+<div class="container" style="max-width: 1000px">
+  <img class="img-fluid" src="/images/ian_microscope3.jpg" alt="image">
+  <p>
+    Text, text, text, text, 123
+  </p>
+</div>
