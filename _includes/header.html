@@ -1,8 +1,19 @@
+<style>
+  .navbar-brand {
+    display: flex;
+    align-items: center;
+  }
+
+  .navbar-brand img {
+    margin-right: 10px; /* Add some space between the image and the text */
+  }
+</style>
+
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
   <div class="container">
     <a class="navbar-brand" href="{{ "/" | relative_url }}">
-      <img src="/images/ian_microscope3.jpg" class="img-fluid rounded-circle" width="60" height="60">
-        Ian Humphreys
+      <img src="/images/ian_microscope3.jpg" class="img-fluid rounded-circle" width="50" height="50">
+      <span>Ian Humphreys</span>
     </a>
     {%- assign page_paths = site.header_pages -%}
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
