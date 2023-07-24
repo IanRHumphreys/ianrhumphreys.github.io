@@ -3,6 +3,17 @@ layout: default
 title: Resources
 ---
 
+<style>
+  .image-container {
+    display: flex;
+    align-items: center;
+  }
+
+  .image-container img {
+    margin-right: 10px; /* Add some space between the image and the hyperlink */
+  }
+</style>
+
 <div class="container">
   <div class="table">
     <table class="table-borderless">
@@ -11,14 +22,15 @@ title: Resources
         <br> 
         <tr>
           <td align="center">
-            <a href="https://modelarchive.org/doi/10.5452/ma-bak-cepc">Structure models of predicted yeast interactions</a>
-          </td>
-          <td align="center">
-            <img src="/images/Yeast_MA_fig.png" width="85" height="85" alt="proteins">
+            <div class="image-container">
+              <img src="/images/Yeast_MA_fig.png" width="85" height="85" alt="proteins">
+              <a href="https://modelarchive.org/doi/10.5452/ma-bak-cepc">Structure models of predicted yeast interactions</a>
+            </div>
           </td>
         </tr>
       </tbody>
     </table>
   </div>
 </div>
+
 
