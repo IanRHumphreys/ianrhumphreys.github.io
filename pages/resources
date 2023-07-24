@@ -1,0 +1,19 @@
+---
+layout: default
+title: Resources
+---
+
+<div class="container">
+  <div class="table">
+    <table class="table-borderless">
+    <tbody>
+      <h4> Resources</h4> 
+      <br> 
+      <tr>
+        <td align="center"><img src="/images/gmail_logo.png" width="45" height="45" alt="email_image"></td>
+        <td>Yeast predicted interactions</td>
+        href="https://modelarchive.org/doi/10.5452/ma-bak-cepc"
+      </tr>
+    </tbody>
+  </table>
+</div>
