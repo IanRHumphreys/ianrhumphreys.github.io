@@ -37,10 +37,13 @@ $yellow:  #dab132 !default;
 $green:   #7ca950 !default;
 $teal:    #529fba !default;
 $cyan:    #3498DB !default;
+$ipdpurp: #46327E;
+$ipdblue: #5795B2;
+$ipdpink: #A53282;
 
-$primary:       $blue !default;
-$secondary:     $gray-500 !default;
-$success:       $green !default;
+$primary:       $ipdpurp !default;
+$secondary:     $ipdblue !default;
+$success:       $ipdpink !default;
 $info:          $cyan !default;
 $warning:       $yellow !default;
 $danger:        $red !default;
